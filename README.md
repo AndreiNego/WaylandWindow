@@ -1,4 +1,5 @@
 run the ./build.sh script
+
 run the executable ./build/WaylandWindow
 
 expected outcome is a blue window with decorators on top (for KDE) with a functional close button.
